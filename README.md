@@ -12,5 +12,12 @@ iii. DEL: This will delete single digits, for example,  if we type 1200+255 and 
 
 It is visually interesting, and user will be able to know which button he/she had pressed, but user can only use calculator's keys to type not their actual keyboard, to make it better and clean.
 
-This is the screenshot:
-![Screenshot (1)](https://github.com/user-attachments/assets/3d0c3317-98c9-4d8d-bb11-926b52e2dad1)
+This is the Picture of My Project:
+
+![Screenshot 2025-04-22 125827](https://github.com/user-attachments/assets/5d8a018c-ad56-4acf-a117-4f6875d06cd4)
+
+This is the Video of My Project:
+
+https://github.com/user-attachments/assets/b565e16d-9613-4c05-9c20-a06a13b3c50d
+
+Thank You For Visiting..
