@@ -23,12 +23,12 @@ It is visually interesting, and user will be able to know which button he/she ha
 The Calculations are fully done via Javascript.
 
 
-This is the Picture of My Project:
+# This is the Picture of My Project:
 
 ![Screenshot 2025-04-22 125827](https://github.com/user-attachments/assets/5d8a018c-ad56-4acf-a117-4f6875d06cd4)
 
-This is the Video of My Project:
+# This is the Video of My Project:
 
 https://github.com/user-attachments/assets/b565e16d-9613-4c05-9c20-a06a13b3c50d
 
-Thank You For Visiting..
+# Thank You For Visiting..
